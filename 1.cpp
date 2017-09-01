@@ -25,4 +25,4 @@ else
 cout<<"even";
 return 0;
 }
-}
+
